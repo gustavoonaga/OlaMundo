@@ -1,2 +1,0 @@
-# OlaMundo
- Primeiro repositório versionado
